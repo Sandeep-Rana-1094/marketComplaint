@@ -1,0 +1,5 @@
+{
+  "name": "Market Complaint Dashboard",
+  "description": "A dashboard to visualize and track market complaints from a data source.",
+  "requestFramePermissions": []
+}
